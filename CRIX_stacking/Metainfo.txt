@@ -1,0 +1,10 @@
+Name of Quantlet: CRIX_stacking
+
+Published in: ''
+
+Description: 'Time series data preparation for simulation and analysis with GAN. Visualisation with stacking image of the CRIX time series
+              both for the original series and its log returns.'
+
+Keywords: 'GAN, CRIX, time series, non stationarity, simulation'
+
+Author: 'Ramona Merkl'
