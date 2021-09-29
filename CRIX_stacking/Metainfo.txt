@@ -8,3 +8,7 @@ Description: 'Time series data preparation for simulation and analysis with GAN.
 Keywords: 'GAN, CRIX, time series, non stationarity, simulation'
 
 Author: 'Ramona Merkl'
+
+See also: 'GANTimeSeries'
+
+Submitted:  'September 2021'
