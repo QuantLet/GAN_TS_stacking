@@ -7,3 +7,7 @@ Description: 'Appliaction of a simple GAN framework with Wasserstein loss on CRI
 Keywords: 'WGAN, GAN, CRIX, time series, non stationarity, simulation, Wasserstein loss'
 
 Author: 'Ramona Merkl'
+
+See also: 'GANTimeSeries'
+
+Submitted:  'September 2021'
