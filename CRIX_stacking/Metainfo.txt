@@ -9,6 +9,6 @@ Keywords: 'GAN, CRIX, time series, non stationarity, simulation'
 
 Author: 'Ramona Merkl'
 
-See also: 'GANTimeSeries'
+See also: 'GANTimeSeries, 1d_GAN'
 
 Submitted:  'September 2021'
