@@ -1,4 +1,4 @@
-Name of Quantlet: CRIX_stacking
+Name of Quantlet: GAN_TS
 
 Published in: ''
 
